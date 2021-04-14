@@ -1,0 +1,46 @@
+{
+  "id": "b639c4ce-1b9c-46a8-b0c1-1df26c63ca03",
+  "parentId": "e074f0ca-7a6b-4e98-8643-b986e6842db5",
+  "rootParentId": "e074f0ca-7a6b-4e98-8643-b986e6842db5",
+  "name": "A_TipoDeServicioObtenerDinero - fallback prestamo",
+  "contexts": [
+    "A_TipoDeServicioObtenerDinero-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "A_TipoDeServicioObtenerDinero.A_TipoDeServicioObtenerDinero-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "Quiero realizar una inversión",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

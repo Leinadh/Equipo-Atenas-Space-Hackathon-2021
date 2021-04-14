@@ -1,0 +1,87 @@
+[
+  {
+    "id": "a4c61679-fa5e-4b05-8314-1d9ba4c8c6da",
+    "data": [
+      {
+        "text": "Activa ",
+        "userDefined": false
+      },
+      {
+        "text": "mis compras online",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d4e315fa-3064-4309-b774-bef3aa2fe58e",
+    "data": [
+      {
+        "text": "Activa mis compras por web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9dbc326a-bc6a-413b-8d92-b402edf3b79f",
+    "data": [
+      {
+        "text": "Quiero poder comprar  por ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b42d8075-0c6d-42f0-8050-fc4c41ccef6c",
+    "data": [
+      {
+        "text": "Activar compras por ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aa878c83-78e6-412d-a184-3cb3805d3870",
+    "data": [
+      {
+        "text": "Activa mis compras por ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

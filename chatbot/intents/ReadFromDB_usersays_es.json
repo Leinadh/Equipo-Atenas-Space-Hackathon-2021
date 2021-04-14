@@ -1,0 +1,50 @@
+[
+  {
+    "id": "29141359-cb09-4f76-bf12-4efc25519d76",
+    "data": [
+      {
+        "text": "read from database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "fce0027f-0f8b-42b1-a1a4-270da5aa4588",
+    "data": [
+      {
+        "text": "Read database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a72e75fa-7a64-4fab-bd65-c1ea48d6178b",
+    "data": [
+      {
+        "text": "Read ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " db",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

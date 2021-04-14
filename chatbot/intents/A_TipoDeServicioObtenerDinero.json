@@ -1,0 +1,64 @@
+{
+  "id": "e074f0ca-7a6b-4e98-8643-b986e6842db5",
+  "name": "A_TipoDeServicioObtenerDinero",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "A_TipoDeServicioObtenerDinero-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcS867qVTTvtgGb7J24LlmMlAGFWaOa_K81GFA\u0026usqp\u003dCAU",
+          "subtitle": "Elija un tipo de servicio para obtener dinero",
+          "title": "¿Qué tipo de servicio desea utilizar?",
+          "buttons": [
+            {
+              "postback": "Obtener tarjeta de crédito",
+              "text": "Quiero obtener una tarjeta de crédito"
+            },
+            {
+              "postback": "Obtener un préstamo",
+              "text": "Quiero realizar un préstamo"
+            },
+            {
+              "postback": "Realizar una inversión",
+              "text": "Quiero realizar una inversión"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

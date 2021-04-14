@@ -1,0 +1,52 @@
+{
+  "id": "f1cd07f9-5b2a-49d8-aaf7-e283ea05b608",
+  "name": "Bloquear_Tarjeta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c65f0936-1806-4d2e-b614-bb8c689166bf",
+          "name": "bloquear",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$bloquear",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Hola, confírmame si deseas que bloquee tu tarjeta, ¡para realizar el bloqueo de tu tarjeta de inmediato!"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

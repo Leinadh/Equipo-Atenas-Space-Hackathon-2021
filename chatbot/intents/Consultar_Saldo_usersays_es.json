@@ -1,0 +1,134 @@
+[
+  {
+    "id": "84548f76-b85a-476b-bb05-4b7115b9bdd1",
+    "data": [
+      {
+        "text": "¿Monto de ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tarjeta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b324cb29-c5e7-4dea-9529-50481ce42bb4",
+    "data": [
+      {
+        "text": "¿Dime cuánta ",
+        "userDefined": false
+      },
+      {
+        "text": "plata",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tengo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0d28117-44a6-4384-b44e-44de5132071f",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c92d8c04-af90-4963-8343-4e8b7006df15",
+    "data": [
+      {
+        "text": "¿Dime ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "41fa62bb-a611-41b1-85a8-d6176b327281",
+    "data": [
+      {
+        "text": "¿Cuánto dinero tengo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ed4ff576-1753-4ffc-a853-4a414d952893",
+    "data": [
+      {
+        "text": "¿Cuánto saldo tengo en ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tarjeta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

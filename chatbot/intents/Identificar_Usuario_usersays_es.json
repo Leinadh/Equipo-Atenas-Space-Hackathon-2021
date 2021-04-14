@@ -1,0 +1,177 @@
+[
+  {
+    "id": "375e2092-4cf6-47e9-80fa-d9d8eb9d51cf",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c79b312d-5e8f-46f8-a708-ccc6b7339eb8",
+    "data": [
+      {
+        "text": "Quién ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " el dueño de la tarjeta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a8f35a81-286a-475a-bcfa-0e85a994c51f",
+    "data": [
+      {
+        "text": "Quién ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " el dueño de la cuenta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f5d5e666-4d04-4b69-9b97-38f2bfc63447",
+    "data": [
+      {
+        "text": "titular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3f072ebc-0fa8-41aa-8393-47fa2db3ba76",
+    "data": [
+      {
+        "text": "Dime el titular de la cuenta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "066c087d-c42b-451d-801a-981c90311d0f",
+    "data": [
+      {
+        "text": "¿Quisiera saber quién soy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5b08e4c1-ff26-43d9-afae-939bda74c189",
+    "data": [
+      {
+        "text": "¿Cómo me llamo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7434a82b-1432-4390-8d0b-7cbd5258f108",
+    "data": [
+      {
+        "text": "¿Sabes ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0ff94f98-ea93-47b8-ad1c-d7665aa25878",
+    "data": [
+      {
+        "text": "¿Quién soy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "821c6ad7-4075-4988-bf44-574689293407",
+    "data": [
+      {
+        "text": "Dime quien soy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

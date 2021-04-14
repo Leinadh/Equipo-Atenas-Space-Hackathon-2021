@@ -1,0 +1,46 @@
+[
+  {
+    "id": "294ee977-07fa-4e04-95cd-0121a3d75962",
+    "data": [
+      {
+        "text": "Necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " prestamo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c1ad0c5a-8d85-477c-82e4-3aeb61b922c9",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " préstamo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

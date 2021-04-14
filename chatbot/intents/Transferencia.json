@@ -1,0 +1,79 @@
+{
+  "id": "cb64b94b-939c-4da0-b197-c07f263cf2c1",
+  "name": "Transferencia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff84ce69-17c9-4652-82ec-6ee0fd3fc6e6",
+          "name": "contacto",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$contacto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿A qué contacto deseas que envíe dinero?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "751b3846-5d89-41cc-88ad-c7a7d4fb883e",
+          "name": "monto",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$monto",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, indícame cuánto dinero envío"
+            },
+            {
+              "lang": "es",
+              "value": "Dime, Por favor, ¿Cuánto transfiero?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Dime cuánto debo de enviar a tu contacto, por favor?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

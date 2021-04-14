@@ -1,0 +1,277 @@
+[
+  {
+    "id": "64d4a6d7-2a94-4abd-b143-35e6ece4ab26",
+    "data": [
+      {
+        "text": "Realiza ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transferencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aae59afe-1b33-4676-95e8-c63d9cdb8c5d",
+    "data": [
+      {
+        "text": "Manda",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e1743101-9428-4900-bb6f-cb0d713f2004",
+    "data": [
+      {
+        "text": "Envía ",
+        "userDefined": false
+      },
+      {
+        "text": "plata",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1a73d5ae-7ee3-426e-991f-035c4bd69431",
+    "data": [
+      {
+        "text": "Envíale dinero a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9cca3b62-776a-4123-8023-c6242c75d246",
+    "data": [
+      {
+        "text": "Mándale dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3d6329f8-668d-4bfb-adb6-62d4f46e8c03",
+    "data": [
+      {
+        "text": "Yapeale a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4e89a838-dc8a-495d-b164-29569885d874",
+    "data": [
+      {
+        "text": "Mándale ",
+        "userDefined": false
+      },
+      {
+        "text": "plata",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "68378fca-ee88-4ef5-b249-48950e13aef5",
+    "data": [
+      {
+        "text": "Envía",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "150",
+        "meta": "@sys.number",
+        "alias": "monto",
+        "userDefined": true
+      },
+      {
+        "text": " soles a ",
+        "userDefined": false
+      },
+      {
+        "text": "alonso",
+        "meta": "@sys.given-name",
+        "alias": "contacto",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ee240a79-73bf-4de4-a186-a3fc9f57cf2a",
+    "data": [
+      {
+        "text": "Yapea",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "873ee054-0a8e-4cb0-93fe-48dedd06b517",
+    "data": [
+      {
+        "text": "Transfiere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9ae3111f-6c4e-4e72-8c66-599bc2ff75b9",
+    "data": [
+      {
+        "text": "Yapeale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d062b081-d611-4a91-bc47-089ba3313658",
+    "data": [
+      {
+        "text": "Manda dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7d090d12-b529-46c6-8467-16ee46468199",
+    "data": [
+      {
+        "text": "Manda ",
+        "userDefined": false
+      },
+      {
+        "text": "plata",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "028e2cfb-b6b3-4283-827f-60e1f2889ce0",
+    "data": [
+      {
+        "text": "Envíale dinero a ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contacto",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "65898211-8bd3-4990-ba3a-c49c99816ca0",
+    "data": [
+      {
+        "text": "¿Podrías enviarle dinero a ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mamá",
+        "meta": "@sys.given-name",
+        "alias": "contacto",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

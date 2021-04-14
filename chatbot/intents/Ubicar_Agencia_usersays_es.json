@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a9d51897-24be-4fa8-8963-585ea96bf302",
+    "data": [
+      {
+        "text": "¿Algún ",
+        "userDefined": false
+      },
+      {
+        "text": "banco",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cerca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c022fa77-39d1-4310-a596-506826a4a44e",
+    "data": [
+      {
+        "text": "Agencia cerca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4ebf3993-811e-4bc3-882d-010495eab565",
+    "data": [
+      {
+        "text": "Tengo que hacer unos trámites, necesito ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agencia rápido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c25e2370-e84d-43d8-b0ea-9bfbc123ba79",
+    "data": [
+      {
+        "text": "Necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6d0d37ba-6b15-4abd-94f8-52137ef381b9",
+    "data": [
+      {
+        "text": "Quiero ir a ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "01431e81-1e85-40bc-b591-a932b78a7c56",
+    "data": [
+      {
+        "text": "Agencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "17eef305-7e75-44fd-8823-a409ea1aefea",
+    "data": [
+      {
+        "text": "Me puedes decir donde hay ",
+        "userDefined": false
+      },
+      {
+        "text": "un cajero",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cerca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "07649d40-3855-4620-a3d0-95bdea01ec5e",
+    "data": [
+      {
+        "text": "Dónde hay ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agencia por aquí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "165a0f23-245f-41d1-a5ad-6ac2b35eb4f0",
+    "data": [
+      {
+        "text": "Quisiera saber donde esta ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agencia cerca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

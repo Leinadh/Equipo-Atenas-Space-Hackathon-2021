@@ -1,0 +1,97 @@
+[
+  {
+    "id": "00404ce0-4a6a-4dc8-9cbd-8d3581577677",
+    "data": [
+      {
+        "text": "DNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "127c54dd-dde3-44ce-bca5-3414db4b00d5",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "mi DNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "15c9e544-aab3-44a3-a579-17e2e61b969b",
+    "data": [
+      {
+        "text": "Mi DNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "20f180c7-cd60-409f-9162-336e9da739ca",
+    "data": [
+      {
+        "text": "¿Cuál ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mi DNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0c1ab6ec-acf0-4400-b40b-d2f0eac7f05c",
+    "data": [
+      {
+        "text": "Dime ",
+        "userDefined": false
+      },
+      {
+        "text": "mi DNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "ac4af958-9254-44e3-9ef0-8d1b0b63df95",
+    "data": [
+      {
+        "text": "Dime cuánta ",
+        "userDefined": false
+      },
+      {
+        "text": "plata",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transferí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a2ceb3c7-63e6-4369-a3bb-0f4658f62931",
+    "data": [
+      {
+        "text": "¿Cuánto fue lo último que movi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "395056eb-794c-46c5-88ec-5f73bd3a934a",
+    "data": [
+      {
+        "text": "¿Cuánta ",
+        "userDefined": false
+      },
+      {
+        "text": "plata",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transferí, ahora último?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "64b9b14e-45a9-4ed4-8667-ca3849078d8f",
+    "data": [
+      {
+        "text": "¿Cuál fue ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " último movimiento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b50960c9-5a9a-40b9-8506-f9aa9e8b174e",
+    "data": [
+      {
+        "text": "Último movimiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e7858e86-6b25-410a-a1fb-881826a4e994",
+    "data": [
+      {
+        "text": "Dime ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " último movimiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3baba90d-2793-46ff-846d-6bf7347d2321",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " último movimiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "02b65b6b-dfe1-446d-8e5b-56f397d54802",
+    "data": [
+      {
+        "text": "¿Cuánto fue ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " último movimiento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
