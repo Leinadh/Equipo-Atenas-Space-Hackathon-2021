@@ -9,42 +9,60 @@
         <!-- Call to Action Well -->
         <div class="card text-white bg-secondary my-3 py-1 text-center">
             <div class="card-body">
-            <p class="text-white m-0">Crear Cuenta Personalizada | Athenas </p>
+            <p class="text-white m-0">Crear Cuenta Personalizada | Atenas </p>
+            <div id="fb-root"></div>
             </div>
         </div>
+
         <div class="row">
-            <div class="col-12">
-                <nav aria-label="Page navigation example">
-                    <ul class="pagination">
-                      <li class="page-item">
-                        <a class="page-link" href="#" aria-label="Previous">
-                          <span aria-hidden="true">&laquo;</span>
-                        </a>
-                      </li>
-                      <li class="page-item"><a class="page-link" href="#" id="img4">1</a></li>
-                      <li class="page-item"><a class="page-link" href="#" id="img1">2</a></li>
-                      <li class="page-item"><a class="page-link" href="#" id="img2">3</a></li>
-                      <li class="page-item"><a class="page-link" href="#" id="img3">4</a></li>
-                      <li class="page-item">
-                        <a class="page-link" href="#" aria-label="Next">
-                          <span aria-hidden="true">&raquo;</span>
-                        </a>
-                      </li>
-                    </ul>
-                </nav>
+          <div class="col-6">
+          <form>
+            <div class="form-group">
+              <label style="color: white;" for="exampleInputEmail1">DNI</label>
+              <input type="text" class="form-control" id="dni" aria-describedby="emailHelp" placeholder="Ingrese su dni">
             </div>
+            <div class="form-group">
+              <label style="color: white;" for="exampleInputEmail1">Celular</label>
+              <input type="text" class="form-control" id="celular" aria-describedby="emailHelp" placeholder="Ingrese su numero de celular">
+            </div>
+            <div class="form-group">
+              <label style="color: white;" for="exampleInputEmail1">Correo</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Ingrese su correo">
+            </div>
+            <div class="form-group form-check">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1">
+              <label style="color: white;" class="form-check-label" for="exampleCheck1">Check</label>
+            </div>
+            <div class="col-12">
+
+            
+            <div>
+              <button style="margin-top: -15px;" type="submit" class="btn btn-primary">Registrarse</button>
+              <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v10.0&appId=473625697218529&autoLogAppEvents=1" nonce="jFPYqOb6"></script>
+              <div style="padding-left: 20px;" class="fb-login-button" data-width="" data-size="large" data-button-type="continue_with" data-layout="default" data-auto-logout-link="false" data-use-continue-as="false"></div>
+            </div>
+          </div>            
+          </form>
         </div>
+        <div class="col-6">
+          <div style="margin-left: 100px;">
+            <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/f6e6fe05-a09b-4ad5-82f5-2c99cf4e6eb0"></iframe>
+          </div>
+        </div>
+        </div>
+        
+        <br/>
         <div class="row">
             <div class="col-12">
                 <div id="listImages" class="card h-100">
-                    <img width="300" height="400" class="card-img-top" src="/img/img4.jpg" alt="">
+                    <!-- <img width="300" height="400" class="card-img-top" src="/img/img4.jpg" alt=""> -->
                     <div class="card-body">
-                      <h4 class="card-title">Producto 1</h4>
-                      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                      <h4 class="card-title">Caracteristicas de Atenas</h4>
+                      <p class="card-text">Atena es nuestro asistente inteligente.</p>
                     </div>
-                    <div class="card-footer" align="center">
-                      <a href="/contact" class="btn btn-primary">Contact us!</a>
-                    </div>
+                    <!-- <div class="card-footer" align="center">
+                      <a href="/contact" class="btn btn-primary">Contactanos!</a>
+                    </div> -->
                 </div>
             </div>
         </div>
