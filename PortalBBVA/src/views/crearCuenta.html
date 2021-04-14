@@ -46,7 +46,7 @@
         </div>
         <div class="col-6">
           <div style="margin-left: 100px;">
-            <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/f6e6fe05-a09b-4ad5-82f5-2c99cf4e6eb0"></iframe>
+            <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/06cd463f-dff9-490e-acf3-03757775a110"></iframe>
           </div>
         </div>
         </div>
@@ -70,6 +70,19 @@
     </div>
     <%- include('partials/footer.html'); %>
     <!-- CUSTOM JS using JQUERY-->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId            : 'your-app-id',
+          autoLogAppEvents : true,
+          xfbml            : true,
+          version          : 'v10.0'
+        });
+      };
+      
+    </script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+        
     <script rel="text/javascript" src="/js/crearCuenta.js"></script>
 </body>
 </html>
